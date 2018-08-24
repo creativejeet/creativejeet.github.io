@@ -21,7 +21,7 @@ body h1,h2,h3,h4,h5,h6{
 }
 /*-- header --*/
 #home {
-    background: url(https://creativejeet.github.io/images/jeet2.jpg) no-repeat center top;
+    background: url(../images/jeet2.jpg) no-repeat center top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -474,7 +474,7 @@ span.border.one:after {
 .about-right{
 	    float: left;
 	padding:0;
-	background:url(https://creativejeet.github.io/images/jeet4.jpg) no-repeat 0px 0px;
+	background:url(../images/jeet4.jpg) no-repeat 0px 0px;
 	min-height:580px;
 	background-size: cover;
    -o-background-size: cover;
